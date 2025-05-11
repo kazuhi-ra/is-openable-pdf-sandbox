@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@kazuhi-ra/is-openable-pdf": "^0.2.0",
+    "@kazuhi-ra/is-openable-pdf": "^0.2.1",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "vite-plugin-wasm": "^3.4.1"
